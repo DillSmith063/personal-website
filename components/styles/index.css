@@ -1,9 +1,1 @@
-body {
-    background-color: blueviolet;
-    opacity: 0.6;
-}
-
-header {
-    color: black;
-    opacity: 1.0;
-}
+/* stylesheet for index.html and most of the other pages. Other pages will have their own small adjustments from the index */
